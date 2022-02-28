@@ -39,5 +39,3 @@ function showTime(){
 }
 
 showTime();
-
-console.log(mesaj)
